@@ -16,11 +16,12 @@ This code requires some modules:
 
 ### Installation Guide for Windows:
 1. Download and install Ollama from [here](https://ollama.com/download/windows).
-2. Open Windows PowerShell and paste the command:
+2. Wait for the process to complete.
+3. Open Windows PowerShell and paste the command:
     ```shell
     ollama run llama3
     ```
-3. Wait for the process to complete.
+4. Wait for the process to complete.
 
 Note: For any additional models using Ollama, only the command for Windows PowerShell needs to change. For example, to use the Mistral model, the PowerShell command would be:
   ```shell

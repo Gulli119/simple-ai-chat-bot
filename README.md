@@ -1,4 +1,4 @@
-# simple-ai-chat-bot
+# Simple ai chat bot (work in progress)
 
 This repository contains the code for a simple AI-based chat bot built using the Ollama framework and the LLaMA model. The chat bot leverages the capabilities of large language models to engage in natural language conversations, providing responses that are contextually relevant and coherent.
 
